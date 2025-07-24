@@ -55,7 +55,7 @@ A estrutura do projeto já está preparada para suportar novas funcionalidades c
 # 🚀 Começando
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/project-manager.git
+git clone https://github.com/ercabsalias/project-manager.git
 cd project-manager
 ```
 Instale as dependências:
